@@ -1,0 +1,37 @@
+[
+  {
+    "id": "C0001",
+    "image": "/companies_images/ksc cloth.png",
+    "name": "شركة الخطيب للملابس",
+    "description": "شركة رائدة في صناعة الملابس العصرية والأنيقة",
+    "phoneNumber": "0955636967"
+  },
+  {
+    "id": "C0002",
+    "image": "/companies_images/ksc food.png",
+    "name": "شركة الخطيب للطعام",
+    "description": "توفير حلول غذائية صحية وعالية الجودة",
+    "phoneNumber": "0955636967"
+  },
+  {
+    "id": "C0003",
+    "image": "/companies_images/ksc gaming.png",
+    "name": "شركة الخطيب للألعاب",
+    "description": "منصة متكاملة لألعاب الفيديو والتجارب التفاعلية",
+    "phoneNumber": "0955636967"
+  },
+  {
+    "id": "C0004",
+    "image": "/companies_images/ksc it.png",
+    "name": "شركة الخطيب لتكنولوجيا المعلومات",
+    "description": "حلول تكنولوجيا المعلومات والتحول الرقمي",
+    "phoneNumber": "0955636967"
+  },
+  {
+    "id": "C0005",
+    "image": "/companies_images/ksc tv.png",
+    "name": "شركة الخطيب للتلفزيون",
+    "description": "محتوى ترفيهي وإعلامي متميز عبر الشاشات",
+    "phoneNumber": "0955636967"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "pc1001",
+    "image": "/products_images/anna-ribes-alEZLDPPRBU-unsplash.jpg",
+    "name": "مكعب آيس كريم فستق",
+    "quantity": 15,
+    "price": 20,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "آيس كريم بنكهة الفستق اللذيذة في مخروط وافل.",
+    "company": "شركة الخطيب للتلفزيون"
+  },
+  {
+    "id": "pc1002",
+    "image": "/products_images/carnivore-style-b-ur-6LsdOI-unsplash.jpg",
+    "name": "ميني برغر لحم",
+    "quantity": 15,
+    "price": 22,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "برغر لحم صغير مع خس طازج وجبن.",
+    "company": "شركة الخطيب لتكنولوجيا المعلومات"
+  },
+  {
+    "id": "pc1003",
+    "image": "/products_images/charlesdeluvio-UsSdMZ78Q3E-unsplash.jpg",
+    "name": "رقائق تورتيلا سانتيتوس",
+    "quantity": 15,
+    "price": 24,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "رقائق تورتيلا مقرمشة مصنوعة من الذرة العضوية.",
+    "company": "شركة الخطيب للألعاب"
+  },
+  {
+    "id": "pc1004",
+    "image": "/products_images/chris-nguyen-lYTCs_4Tv-M-unsplash.jpg",
+    "name": "زبادي فانيلا مجمد",
+    "quantity": 15,
+    "price": 26,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "زبادي فانيلا كريمي بنكهة ناعمة.",
+    "company": "شركة الخطيب للتلفزيون"
+  },
+  {
+    "id": "pc1005",
+    "image": "/products_images/eiliv-aceron-NWTPcPE1nJI-unsplash.jpg",
+    "name": "ميلك شيك شوكولاتة",
+    "quantity": 15,
+    "price": 28,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "ميلك شيك شوكولاتة غني ومخملي مع كريمة مخفوقة.",
+    "company": "شركة الخطيب لتكنولوجيا المعلومات"
+  },
+  {
+    "id": "pc1006",
+    "image": "/products_images/giorgio-trovato-Xw4AGbhLKo0-unsplash.jpg",
+    "name": "تشيتوس مقرمش",
+    "quantity": 15,
+    "price": 30,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "وجبة خفيفة من تشيتوس بالجبن والمقرمشات.",
+    "company": "شركة الخطيب للتلفزيون"
+  },
+  {
+    "id": "pc1007",
+    "image": "/products_images/jonathan-cooper-JxfpnB7G3eA-unsplash.jpg",
+    "name": "شريط جرانولا فايبر ون",
+    "quantity": 15,
+    "price": 32,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "شريط جرانولا صحي غني بالألياف والحبوب الكاملة.",
+    "company": "شركة الخطيب للألعاب"
+  },
+  {
+    "id": "pc1008",
+    "image": "/products_images/karsten-winegeart-iBv4UUvKlb4-unsplash.jpg",
+    "name": "ديدان فواكه مطاطية",
+    "quantity": 15,
+    "price": 34,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "ديدان مطاطية ملونة بنكهات فواكه.",
+    "company": "شركة الخطيب لتكنولوجيا المعلومات"
+  },
+  {
+    "id": "pc1009",
+    "image": "/products_images/karsten-winegeart-PL5FZkW0Qkk-unsplash.jpg",
+    "name": "مشروب تونيك شويبرز",
+    "quantity": 15,
+    "price": 36,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "ماء تونيك منعش بنكهة خفيفة.",
+    "company": "شركة الخطيب للطعام"
+  },
+  {
+    "id": "pc1010",
+    "image": "/products_images/kseniia-ilinykh-_VhzDVkw4M8-unsplash.jpg",
+    "name": "فانتا برتقال",
+    "quantity": 15,
+    "price": 38,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "صودا بنكهة البرتقال الحلوة والمنعشة.",
+    "company": "شركة الخطيب للملابس"
+  },
+  {
+    "id": "pc1011",
+    "image": "/products_images/nico-baum-dk4aPd7oss4-unsplash.jpg",
+    "name": "كارما كولا",
+    "quantity": 15,
+    "price": 40,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "cola عضوية وعادلة التجارة مع مكونات طبيعية.",
+    "company": "شركة الخطيب للملابس"
+  },
+  {
+    "id": "pc1012",
+    "image": "/products_images/nik-hgeRhMV-3Gc-unsplash.jpg",
+    "name": "بسكويت أوريو",
+    "quantity": 15,
+    "price": 42,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "بسكويت شوكولاتة كلاسيكي مع حشوة كريمية.",
+    "company": "شركة الخطيب لتكنولوجيا المعلومات"
+  },
+  {
+    "id": "pc1013",
+    "image": "/products_images/no-revisions-tkUMZUHgDSU-unsplash.jpg",
+    "name": "خبز الموز محلي",
+    "quantity": 15,
+    "price": 44,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "خبز موز رطب مع جوز البقان والقرفة.",
+    "company": "شركة الخطيب لتكنولوجيا المعلومات"
+  },
+  {
+    "id": "pc1014",
+    "image": "/products_images/priscilla-du-preez-8vKxl0uxyYc-unsplash.jpg",
+    "name": "وجبة بروتين بولسيتوس",
+    "quantity": 15,
+    "price": 46,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "وجبة خفيفة غنية بالبروتين من مكونات طبيعية.",
+    "company": "شركة الخطيب للملابس"
+  },
+  {
+    "id": "pc1015",
+    "image": "/products_images/pulsitos-com-z-0pedsRxps-unsplash.jpg",
+    "name": "شريط كراف العضوي",
+    "quantity": 15,
+    "price": 48,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "شريط جرانولا عضوي مع شوكولاتة ومكسرات.",
+    "company": "شركة الخطيب للملابس"
+  },
+  {
+    "id": "pc1016",
+    "image": "/products_images/the-organic-crave-gkjwrtieE98-unsplash.jpg",
+    "name": "رقائق إيرفينز بالبيض المملح",
+    "quantity": 15,
+    "price": 50,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "رقائق بطاطس مقرمشة مغطاة بتوابل البيض المملح.",
+    "company": "شركة الخطيب للملابس"
+  },
+  {
+    "id": "pc1017",
+    "image": "/products_images/tony-pham-3aahrc4Us80-unsplash.jpg",
+    "name": "دورitos بنكهة الوسابي",
+    "quantity": 15,
+    "price": 52,
+    "production_date": "2025-03-01",
+    "validity": 4,
+    "details": "رقائق دورitos حارة بنكهة الوسابي الجريئة.",
+    "company": "شركة الخطيب للملابس"
+  }
+]

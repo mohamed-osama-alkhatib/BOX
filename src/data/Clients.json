@@ -1,0 +1,42 @@
+[
+  {
+    "id": 60001,
+    "name": "أسامة",
+    "email": "osama@gmail.com",
+    "phone": "092321",
+    "address": "حمص",
+    "numberOfInvoices": 0
+  },
+  {
+    "id": 60002,
+    "name": "براء",
+    "email": "baraa@gmail.com",
+    "phone": "093222",
+    "address": "حمص",
+    "numberOfInvoices": 0
+  },
+  {
+    "id": 60003,
+    "name": "سعيد",
+    "email": "saeed@gmail.com",
+    "phone": "093652",
+    "address": "حمص",
+    "numberOfInvoices": 0
+  },
+  {
+    "id": 60004,
+    "name": "زين",
+    "email": "zen@gmail.com",
+    "phone": "093112",
+    "address": "حمص",
+    "numberOfInvoices": 0
+  },
+  {
+    "id": 60005,
+    "name": "غيث",
+    "email": "ghaith@gmail.com",
+    "phone": "092441",
+    "address": "حمص",
+    "numberOfInvoices": 0
+  }
+]
